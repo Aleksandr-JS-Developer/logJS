@@ -5,6 +5,7 @@
 The library allows you to use more console.
 After import *(via `<script> </script>` tag or via `import`)* we get an instance of the class with methods for logging.
 What follows is a description of the methods and arguments for these methods.
+
 ---
 #### log.newConfigObj( newConfigObj )
 An object that contains fields to describe the default behavior of logJs.
